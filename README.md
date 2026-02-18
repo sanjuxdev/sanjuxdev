@@ -38,7 +38,7 @@
 <!--                          🧑‍💻 ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="code.gif" width="30"/> &nbsp; About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> &nbsp; About Me
 
 ```js
 const sanjay = {
@@ -47,13 +47,13 @@ const sanjay = {
   code: ["Java", "C", "C++"],
   tools: ["VS Code", "Supabase", "Git"],
   currentlyLearning: "Full-Stack Web Development + AI Integration",
-  passions: ["Building real-world apps", "Open Source"],
+  passions: ["Building real-world apps", "Open Source", "IoT & Robotics"],
   funFact:
     "Won 2nd place at ProtoFest 2025 with an invisible security fence 👻",
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+<img align="right" src="code.gif" width="270"/>
 
 - 🔭 &nbsp; Currently building a **Chrome Extension** — a customizable widget dashboard
 - 🌱 &nbsp; Learning **Web Development** and exploring **AI-powered applications**
@@ -106,13 +106,13 @@ const sanjay = {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="html5.gif" height="35" alt="HTML5"/>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <img src="html5.gif" height="28" alt="HTML5"/>
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<img src="js.gif" height="35" alt="JavaScript"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) <img src="js.gif" height="28" alt="JavaScript"/>
 
 ### &nbsp; Tools & Platforms
 
-<img src="vscode.gif" height="35" alt="VS Code"/>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="vscode.gif" height="28" alt="VS Code"/>
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -121,9 +121,9 @@ const sanjay = {
 
 ### &nbsp; Currently Learning
 
-<img src="reactjs.gif" height="35" alt="React"/>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src="reactjs.gif" height="28" alt="React"/>
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<img src="nodejs.gif" height="35" alt="Node.js"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <img src="nodejs.gif" height="28" alt="Node.js"/>
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </p>
@@ -238,7 +238,7 @@ const sanjay = {
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjuxdev" target="_blank">
-    <img src="linkedin.gif" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:sanjuxdev@gmail.com">
@@ -246,7 +246,7 @@ const sanjay = {
   </a>
   &nbsp;
   <a href="https://github.com/sanjuxdev" target="_blank">
-    <img src="icons8-github.gif" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
