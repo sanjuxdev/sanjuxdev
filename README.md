@@ -1,10 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/cbe4837f-87f4-4e44-a604-559fe0ffd1f3)
 
-
-
-
-
-
 <p align="center">
   <img src="code.gif" width="800" alt="Coding Animation Header"/>
 </p>
@@ -50,7 +45,7 @@ const sanjay = {
   code: ["Java", "C", "C++"],
   tools: ["VS Code", "Supabase", "Git"],
   currentlyLearning: "Full-Stack Web Development + AI Integration",
-  passions: ["Building real-world apps", "Open Source", "IoT & Robotics"],
+  passions: ["Building real-world apps", "Open Source"],
   funFact:
     "Won 2nd place at ProtoFest 2025 with an invisible security fence 👻",
 };
@@ -133,7 +128,7 @@ const sanjay = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                      🚀 FEATURED PROJECT                                -->
@@ -251,4 +246,5 @@ const sanjay = {
   <b>⭐ If you like my work, consider giving a star to my repos!</b><br/>
   <sub>Made with ❤️ by <a href="https://github.com/sanjuxdev">Sanjay S</a></sub>
 </p>
+
 
