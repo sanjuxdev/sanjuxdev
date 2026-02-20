@@ -1,14 +1,10 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         🎨 ANIMATED HEADER                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SANJAY%20S&fontSize=90&animation=twinkling&fontAlignY=38&desc=sanjuxdev%20%E2%80%A2%20Builder%20%E2%80%A2%20Innovator%20%E2%80%A2%20Dreamer&descSize=20&descAlignY=55&descAlign=50"/>
+  <img src="code.gif" width="800" alt="Coding Animation Header"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                     ⌨️ TYPING ANIMATION + INTRO                          -->
-<!-- ═════════════════════════════════════════════════.
+<!-- ═════════════════════════════════════════════════
 ══════════════════════════ -->
 
 <p align="center">
@@ -38,7 +34,7 @@
 <!--                          🧑‍💻 ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> &nbsp; About Me
+## About Me
 
 ```js
 const sanjay = {
@@ -72,7 +68,7 @@ const sanjay = {
 <!--                       🏆 ACHIEVEMENT SPOTLIGHT                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="30"/> &nbsp; Achievement Spotlight
+## Achievement Spotlight
 
 <table>
   <tr>
@@ -97,35 +93,37 @@ const sanjay = {
 <!--                         🧰 TECH STACK                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30"/> &nbsp; Tech Stack
-
-<p align="center">
+## Tech Stack
 
 ### &nbsp; Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <img src="html5.gif" height="28" alt="HTML5"/>
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) <img src="js.gif" height="28" alt="JavaScript"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ### &nbsp; Tools & Platforms
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="vscode.gif" height="28" alt="VS Code"/>
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
 
 ### &nbsp; Currently Learning
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <img src="reactjs.gif" height="28" alt="React"/>
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <img src="nodejs.gif" height="28" alt="Node.js"/>
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ---
@@ -134,7 +132,7 @@ const sanjay = {
 <!--                      🚀 FEATURED PROJECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> &nbsp; Featured Project
+## Featured Project
 
 <table>
   <tr>
@@ -167,7 +165,7 @@ const sanjay = {
 <!--                     📊 GITHUB STATS                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> &nbsp; GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/sanjuxdev">
@@ -188,7 +186,7 @@ const sanjay = {
 <!--                       🏆 GITHUB TROPHIES                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"/> &nbsp; GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -199,42 +197,10 @@ const sanjay = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                   🐍 CONTRIBUTION SNAKE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> &nbsp; Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjuxdev/sanjuxdev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjuxdev/sanjuxdev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sanjuxdev/sanjuxdev/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-> ⚠️ _The snake animation will appear once you push this repo to `sanjuxdev/sanjuxdev` and the GitHub Action runs for the first time!_
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    📈 ACTIVITY GRAPH                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"/> &nbsp; Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjuxdev&bg_color=0d1117&color=00D4FF&line=6C3CE9&point=00D4FF&area=true&area_color=6C3CE9&hide_border=true" />
-  </a>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                     🤝 CONNECT WITH ME                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30"/> &nbsp; Let's Connect!
+## Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjuxdev" target="_blank">
@@ -261,7 +227,7 @@ const sanjay = {
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="300" alt="Random Dev Quote"/>
 </p>
 
 ---
