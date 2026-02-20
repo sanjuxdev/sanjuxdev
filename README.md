@@ -1,3 +1,10 @@
+![Image](https://github.com/user-attachments/assets/cbe4837f-87f4-4e44-a604-559fe0ffd1f3)
+
+
+
+
+
+
 <p align="center">
   <img src="code.gif" width="800" alt="Coding Animation Header"/>
 </p>
@@ -244,3 +251,4 @@ const sanjay = {
   <b>⭐ If you like my work, consider giving a star to my repos!</b><br/>
   <sub>Made with ❤️ by <a href="https://github.com/sanjuxdev">Sanjay S</a></sub>
 </p>
+
